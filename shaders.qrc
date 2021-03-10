@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/fshaderFont30.glsl</file>
+        <file>shaders/vshaderFont30.glsl</file>
+    </qresource>
+</RCC>

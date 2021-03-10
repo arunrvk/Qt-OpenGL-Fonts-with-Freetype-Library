@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/Calibribold.ttf</file>
+        <file>fonts/Calibribolditalic.ttf</file>
+    </qresource>
+</RCC>
