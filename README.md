@@ -1,8 +1,14 @@
 # QtUnicodeFontLoad
 
-Details about the Project
+Details about the Project:
 Its a Qt/OpenGL project for Font rendering running at 60FPS. It uses QOpenGLWidget and QOpenGLFunctions for rendering Text information including Unicode Characters.
 It is dependednt on Freetype OpenSource library for creating fonts. Project comes with pre-built 64bit machine static libraries, freetype.lib(For Windows) and libfreetype.a(For Linux)
+
+Build instructions:
+1) Open the .pro file and compile it for 64bit machine configuration. Ex- Desktop Qt %{Qt:Version} MSVC2015 64bit for Windows.
+2) Run QMake
+3) Compile and Build
+4) Once the pro succesfully compiled place the ReadboldV2000.ttf in the build directory. 
 
 Class Structure:
 1) main() in main.cpp
