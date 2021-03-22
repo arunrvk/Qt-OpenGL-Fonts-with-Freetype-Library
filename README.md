@@ -1,4 +1,4 @@
-# QtUnicodeFontLoad
+# Qt-OpenGL-Fonts-with-Freetype-Library
 
 Details about the Project:
 Its a Qt/OpenGL project for Font rendering running at 60FPS. It uses QOpenGLWidget and QOpenGLFunctions for rendering Text information including Unicode Characters.
